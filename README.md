@@ -29,7 +29,7 @@ This neural network is designed to classify the Iris dataset into three classes:
   - There are \(4 \times 3 = 12\) weights, connecting each input feature to each output neuron.
   - Represented as a 4x3 matrix \(W\):
 
-    \[
+    $`\[
     W = \begin{bmatrix}
     W_{11} & W_{12} & W_{13} \\
     W_{21} & W_{22} & W_{23} \\
@@ -37,6 +37,7 @@ This neural network is designed to classify the Iris dataset into three classes:
     W_{41} & W_{42} & W_{43}
     \end{bmatrix}
     \]
+    `$
 
 - **Biases**:
   - Each output neuron has its own bias term, resulting in 3 bias terms in total.
