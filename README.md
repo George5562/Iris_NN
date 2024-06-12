@@ -1,5 +1,5 @@
 #### Iris_NN
- A simple single-layer neural network in Excel using the Iris dataset. You can modify the learning rate and then iterate through epochs one at a time using the VBA buttons. To the right of the calculations is a visualisation of the neural net, and confustion matixes for the three outputs.
+ A simple single-layer neural network in Excel using the Iris dataset. You can modify the learning rate and then iterate through epochs one at a time using the VBA buttons. To the right of the calculations is a visualisation of the neural net, and confusion matixes for the three outputs.
 
 #### Neural Network Architecture
 
